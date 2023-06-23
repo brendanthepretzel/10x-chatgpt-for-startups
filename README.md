@@ -13,3 +13,17 @@ This project aims to explore different creative thinking techniques and apply th
 - Product design
 - Business problem solving
 - New startup ideas
+
+# Key Jobs to be Done
+
+To be a really great ideation co-pilot, I need Chat GPT to learn how to master the following:  
+
+- Reverse Brief | Help me articulate my intent, and the difference between great ideas and meh!
+- Need | Help me understand the problems I am solving, and the people I am designing for
+- Landscape | Help me explore the ideas that have already been tried 
+- Possibilities | Help me generate diverse, creative and surprising new directions
+- Concepts | Help me turn those possibilities into amazing ideas
+- Iteration | Help me improve my ideas with synthetic user testing 
+
+## A note on Synthetic User Testing  
+This is where we create a range of synthetic personas, and the questions we need to ask them, and have them tell us what works and what doesn't work about our proposed solution concepts. It;s a great way to harden your idea before going out into the real world, but isn't really designed to replace actually speaking with real people. Check out [Syntehtic Users](https://www.syntheticusers.com/) for more.
