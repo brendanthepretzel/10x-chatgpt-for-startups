@@ -2,7 +2,7 @@
 
 Creative thinking is a skill, and it can be taught. This project aims to teach ChatGPT how to think creatively. Just imagine what you could do with Chat GPT at your side, if only you could get it to create new ideas instead of telling you all about hte ideas that already exist. 
 
-**The Power of Priming**
+#H1 The Power of Priming #
 
 Great prompt engineering can go a long way toward getting what you want from your experience with ChatGPT.
 THe folks over at https://github.com/f/awesome-chatgpt-prompts know about getting ChatGPT to impersonate different personas to flavour your interaction. 
