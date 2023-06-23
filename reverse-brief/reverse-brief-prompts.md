@@ -12,3 +12,5 @@ Who is your user, what is their situation, what jobs are they trying to get done
 
 How will we recognise a great idea when we see one, and what would make an idea bad?
 
+> I want you to write a set of evaluation criteria to help differentiate between great ideas, and poor ideas. A great idea should solve high impact problems in a way that is 10x better than any existing alternatives available in the market. A great should also be scalable across a large audience, and should be defensible against competitor solutions over the long term.
+
