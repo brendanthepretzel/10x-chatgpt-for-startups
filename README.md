@@ -7,7 +7,7 @@ Creative thinking is a skill, and it can be taught. This project aims to teach C
 Great prompt engineering can go a long way toward getting what you want from your experience with ChatGPT. The folks over at [awesome-chatgpt-promtps](https://github.com/f/awesome-chatgpt-prompts) know about getting ChatGPT to impersonate different personas to flavour your interaction. And the folks over at [Wrkshp](https://shop.wrkshp.tools/ebook-chatgpt-and-ideation-for-innovators) put out an amazing guide for using Chat GPT to 10x your next service design sprint. 
 
 ### More resources here  
-[Pitchlab ChatGPT Prompts](https://github.com/Pitchlab/ChatGPT-x-Ideation/blob/main/README.md)
+[Pitchlab ChatGPT Prompts](https://github.com/Pitchlab/ChatGPT-x-Ideation/blob/main/README.md)  
 [OpenAI Documentation](https://platform.openai.com/docs/introduction/overview)   
 
 
