@@ -1,6 +1,0 @@
-Purpose,Prompt
-Data Sources,"Where might we source training data for this idea at different stages of growth? Include a high level description of how this data would be used, expected costs, and any key challenges we might face."
-Low Cost Tools,"What AI tools and services might we use to deliver this product or service at different stages of growth? Include a high level description of what features each tool or service would enable, expected costs and any challenges we might face."
-Building Trust,"How might we drive customer adoption of this tool? Include considerations of trust, bias, explainability and goal alignment. I want to understand how to create customer confidence that they can rely upon this solution."
-AI Risk,"What are the core AI risks related to this idea, and how might they be mitigated. Provide simple examples and explanations around why this approach will work."
-AI Governance,"Create a governance framework to enable the business to monitor, curate and respond to AI risks over time. Have the framework follow the business growth stages."
