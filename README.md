@@ -1,3 +1,5 @@
+![ChatGPT Logo](https://github.com/BrendanCoram/10x-your-ideas-with-chatGPT/Images/chatgpt.png)  
+
 # 10x-your-ideas-with-chatGPT
 
 Creative thinking is a skill, and it can be taught. This project aims to teach ChatGPT how to think creatively. Just imagine what you could do with Chat GPT at your side, if only you could get it to create new ideas instead of telling you all about hte ideas that already exist. 
