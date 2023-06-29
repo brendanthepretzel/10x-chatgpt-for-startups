@@ -1,4 +1,7 @@
-# User Research
+# ChatGPT Prompts Repository
+
+
+## User Research
 
 - explain this section
 - list of prompts
