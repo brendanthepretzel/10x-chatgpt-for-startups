@@ -1,6 +1,15 @@
 # 10x-your-ideas-with-chatGPT
 -- Headline image + links to website, discord, etc
 
+-- add an image to show a prompt generating some startup ideas
+
+## About
+-- what is this repository
+
+## How To Guide 
+-- how to use the prompts, how to contribute 
+
+
 
 ## Motivation 
 There are a ton of different ways to design, develop, test and improve your new startup idea. You might test your ideas with users, create more ideas, sketch out a business model or just launch a prototype and see what happens. This all takes time, money and effort. The faster you can find out what works, and stop wasting resources on what doesn't work, the better.  
@@ -29,8 +38,7 @@ ChatGPT Prompts have been organised into the following areas. Each collection is
 This is where we create a range of synthetic personas, and the questions we need to ask them, and have them tell us what works and what doesn't work about our proposed solution concepts. It;s a great way to harden your idea before going out into the real world, but isn't really designed to replace actually speaking with real people. Check out [Syntehtic Users](https://www.syntheticusers.com/) for more.
 
 
-## How To Guide 
--- how to use the prompts, how to contribute 
+
 
 ## References 
 Some reading material to get you started with startup design. 
@@ -40,6 +48,8 @@ Some reading material to get you started with startup design.
 - Google Design Sprint
 - Startup Weekend
 
+### More resources here  
+[Pitchlab ChatGPT Prompts](https://github.com/Pitchlab/ChatGPT-x-Ideation/blob/main/README.md)  
 
 ## License 
 -- what kind of open source licence
@@ -50,12 +60,12 @@ Some reading material to get you started with startup design.
 
 Creative thinking is a skill, and it can be taught. This project aims to teach ChatGPT how to think creatively. Just imagine what you could do with Chat GPT at your side, if only you could get it to create new ideas instead of telling you all about hte ideas that already exist. 
 
-# The Power of Priming 
+# Writing Great Prompts 
+-- put this in the prompts readme
 
 Great prompt engineering can go a long way toward getting what you want from your experience with ChatGPT. The folks over at [awesome-chatgpt-promtps](https://github.com/f/awesome-chatgpt-prompts) know about getting ChatGPT to impersonate different personas to flavour your interaction. And the folks over at [Wrkshp](https://shop.wrkshp.tools/ebook-chatgpt-and-ideation-for-innovators) put out an amazing guide for using Chat GPT to 10x your next service design sprint. 
 
-### More resources here  
-[Pitchlab ChatGPT Prompts](https://github.com/Pitchlab/ChatGPT-x-Ideation/blob/main/README.md)  
+
 [OpenAI Documentation](https://platform.openai.com/docs/introduction/overview)   
 
 
