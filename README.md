@@ -1,6 +1,52 @@
-![ChatGPT Logo](./Images/chatgpt.png)  
-
 # 10x-your-ideas-with-chatGPT
+-- Headline image + links to website, discord, etc
+
+
+## Motivation 
+There are a ton of different ways to design, develop, test and improve your new startup idea. You might test your ideas with users, create more ideas, sketch out a business model or just launch a prototype and see what happens. This all takes time, money and effort. The faster you can find out what works, and stop wasting resources on what doesn't work, the better.  
+
+ChatGPT can help with that. With the right prompts, and a clear framework to keep you focused, you can massively accelerate your startup journey.
+
+This repository holds a collection of ChatGPT prompts that work really well for designing, testing and launching startup ideas. Organised by activity, these prompts are a starting point to help you get the answers you need from ChatGPT.
+
+
+<img src="./Images/chatgpt.png" alt="ChatGPT Logo" width="50" height="50" align="left">
+
+## Chat GPT Prompts 
+ChatGPT Prompts have been organised into the following areas. Each collection is held in a CSV file.
+
+1. Big Idea -
+2. Market Research
+3. User Research
+4. Problem Definition
+5. Ideation
+6. Business Model
+7. Problem Solution Fit
+8. Strategy
+9. AI Startup
+
+#### A note on Synthetic User Testing  
+This is where we create a range of synthetic personas, and the questions we need to ask them, and have them tell us what works and what doesn't work about our proposed solution concepts. It;s a great way to harden your idea before going out into the real world, but isn't really designed to replace actually speaking with real people. Check out [Syntehtic Users](https://www.syntheticusers.com/) for more.
+
+
+## How To Guide 
+-- how to use the prompts, how to contribute 
+
+## References 
+Some reading material to get you started with startup design. 
+- ChatGPT Ideation
+- Build a Better Business
+- Lean Startup
+- Google Design Sprint
+- Startup Weekend
+
+
+## License 
+-- what kind of open source licence
+
+## Thanks 
+-- give us a star
+
 
 Creative thinking is a skill, and it can be taught. This project aims to teach ChatGPT how to think creatively. Just imagine what you could do with Chat GPT at your side, if only you could get it to create new ideas instead of telling you all about hte ideas that already exist. 
 
@@ -13,24 +59,4 @@ Great prompt engineering can go a long way toward getting what you want from you
 [OpenAI Documentation](https://platform.openai.com/docs/introduction/overview)   
 
 
-# Project Goals
 
-This project aims to explore different creative thinking techniques and apply them to great prompt engineering. The results should then help figure out how to use ChatGPT to 10x your next creative thinking challenge. With the right workflows, it should also be possible to create interactive experiences that use Chat GPT to accelerate human creative problem solving across a range of disciplines. 
-
-- Product design
-- Business problem solving
-- New startup ideas
-
-# Key Jobs to be Done
-
-To be a really great ideation co-pilot, I need Chat GPT to learn how to master the following:  
-
-- **Reverse Brief** | Help me articulate my intent, and the difference between great ideas and meh!
-- **Need** | Help me understand the problems I am solving, and the people I am designing for
-- **Landscape** | Help me explore the ideas that have already been tried 
-- **Possibilities** | Help me generate diverse, creative and surprising new directions
-- **Concepts** | Help me turn those possibilities into amazing ideas
-- **Iteration** | Help me improve my ideas with synthetic user testing 
-
-## A note on Synthetic User Testing  
-This is where we create a range of synthetic personas, and the questions we need to ask them, and have them tell us what works and what doesn't work about our proposed solution concepts. It;s a great way to harden your idea before going out into the real world, but isn't really designed to replace actually speaking with real people. Check out [Syntehtic Users](https://www.syntheticusers.com/) for more.
