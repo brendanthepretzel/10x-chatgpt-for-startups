@@ -1,4 +1,4 @@
-![ChatGPT Logo](https://github.com/BrendanCoram/10x-your-ideas-with-chatGPT/Images/chatgpt.png)  
+![ChatGPT Logo](./Images/chatgpt.png)  
 
 # 10x-your-ideas-with-chatGPT
 
