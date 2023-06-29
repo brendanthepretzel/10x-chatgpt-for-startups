@@ -60,10 +60,6 @@ Some reading material to get you started with startup design.
 
 Creative thinking is a skill, and it can be taught. This project aims to teach ChatGPT how to think creatively. Just imagine what you could do with Chat GPT at your side, if only you could get it to create new ideas instead of telling you all about hte ideas that already exist. 
 
-# Writing Great Prompts 
--- put this in the prompts readme
-
-Great prompt engineering can go a long way toward getting what you want from your experience with ChatGPT. The folks over at [awesome-chatgpt-promtps](https://github.com/f/awesome-chatgpt-prompts) know about getting ChatGPT to impersonate different personas to flavour your interaction. And the folks over at [Wrkshp](https://shop.wrkshp.tools/ebook-chatgpt-and-ideation-for-innovators) put out an amazing guide for using Chat GPT to 10x your next service design sprint. 
 
 
 [OpenAI Documentation](https://platform.openai.com/docs/introduction/overview)   
