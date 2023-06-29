@@ -1,0 +1,7 @@
+Purpose,Prompt
+Problem Statement,"Generate a concise problem statement based on the user research. Explain who this problem impacts, why this problem matters, and the impact of not solving this problem. "
+Alternative Perspectives,Reframe this problem in different ways by considering some of the other actors that this customer interacts with and the corresponding challenges they might be facing as a result.
+5 Whys,"Run a five whys analysis on this problem statement. Provide an example for each level of underlying cause. When you get to the final why, create a new problem statement."
+Key Assumptions,"What are the top 5 underlying assumptions for our original problem statement. Include an explanation for each assumption, and a consideration of the potential impact if that assumption were untrue."
+Journey Map,"Generate the touchpoints in a customer journey for my target customer as they are trying to solve this problem. For each touchpoint, include their specific job to be done, challenges and what they do to work around those challenges. Highlight the best moment to engage with this customer based on when they might feel the greatest benefit from a solution to their problem. "
+How Might We,Create a how might we statement to address this customers problem based on the best moment to engage with them. Include an explanation of how the statement was constructured and any choices you made in creating this statement. 
