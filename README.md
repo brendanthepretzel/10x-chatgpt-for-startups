@@ -32,13 +32,13 @@ _Read more here ![Prompt ReadMe](/Prompts/ReadMe.md)_
 #### A note on Synthetic User Testing  
 Some of our prompts make use of synthetic users, where Chat GPT creates imaginary personas and answers questions by impersonating those imaginary users. It's a really useful way to quickly explore your ideas, but cannot replace real user testing. 
   
-Check out the folks at [Syntehtic Users](https://www.syntheticusers.com/) for a more sophisticated approach to synthetic user testing.
+Check out the folks at [Synthetic Users](https://www.syntheticusers.com/) for a more sophisticated approach to synthetic user testing.
 
   
 ## How to use the prompts
-If you don't have an account with OpenAI already, you can open one here. Once you have that setup, login and start a new chat session here.     
+If you don't have an account with OpenAI already, you can open one [here](https://platform.openai.com/signup). Once you have that setup, login and start a new chat session [here](https://chat.openai.com/chat).     
    
-BEFORE you start using our prompts, you are going to need to tell chat GPT about the idea you want to develop. If you need help picking an idea you could try one of these, or just ask Chat GPT to get you started.  
+**BEFORE** you start using our prompts, you are going to need to tell chat GPT about the idea you want to develop. If you need help picking an idea you could try solving one of these [Innovation Challenges]()https://www.innovationchallenge.com/) , or just ask Chat GPT if it can generate a few startup ideas for you.   
   
 Then, pick a prompt you like, and copy paste it over to your chat GPT session. Just be aware that some prompts will reference answers from previous prompts, in which case you can either make some adhjustments or just run a different prompt. 
   
