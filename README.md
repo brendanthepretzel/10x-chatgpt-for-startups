@@ -1,5 +1,5 @@
 # 10x-your-ideas-with-chatGPT
-<img src="./Images/10x-with-ChatGPT.png" alt="ChatGPT Examples">  
+<img src="./Images/10x-with-ChatGPT.jpg" alt="ChatGPT Examples">  
 
   
 ## About
@@ -8,7 +8,7 @@ This repository holds a collection of ChatGPT prompts for designing, testing and
 ### How to use the prompts
 To get started, take a look through the Prompts directory for a prompt you want to try and copy it over to your Chat GPT session. Please note that some prompts are written to build on your conversation, so you might need to prime Chat GPT first. Here is an example:   
 
-<img src="./Images/Howto-example.png" alt="Howto Example" align="left">
+<img src="./Images/Howto-example.jpg" alt="Howto Example" align="left">
 
 
 previously run prompts, so you might need to We recommend you . THen copy it over to your Chat GPT session Look through our collection of prompts 
