@@ -12,36 +12,31 @@ To get started, take a look through the Prompts directory for a prompt you want 
    
 We hope you find these prompts useful. Enjoy!
 
-  
-## How To Contribute 
--- how to use the prompts, how to contribute 
-
-To get started, simply clone this repository and use the prompts in the README.md file as input for ChatGPT. You can also use the prompts in this file as inspiration for creating your own.
-
 
 ## Motivation 
 There are a ton of different ways to design, develop, test and improve your new startup idea. You might test your ideas with users, create more ideas, sketch out a business model or just launch a prototype and see what happens. This all takes time, money and effort. The faster you can find out what works, and stop wasting resources on what doesn't work, the better.  
 
 ChatGPT can help with that. With the right prompts, and a clear framework to keep you focused, you can massively accelerate your startup journey. 
 
+  
 ## Community
--- link to discord
+-- link to discord coming soon  
 Tell us about your experience using these prompts to make your ideas better. Did they help? What worked? How can we make them better? 
   
 
-## Chat GPT Prompts 
+## Navigating the Prompts 
 <img src="./Images/chatgpt.png" alt="ChatGPT Logo" width="50" height="50" align="left">
-ChatGPT Prompts have been organised into the following areas. Each collection is held in a CSV file.
+We have organised these ChatGPT Prompts into a series of collections. Each collection is held in its own CSV file. Find out more in the prompts readme. 
 
-1. Big Idea -
-2. Market Research
-3. User Research
-4. Problem Definition
-5. Ideation
-6. Business Model
-7. Problem Solution Fit
-8. Strategy
-9. AI Startup
+1. Big Idea - Get help articulating your idea as is. Do this before you go any further.
+2. Market Research - Find out about the competition, and your tartget customer.
+3. User Research - Synthetic user research to understand the problem you are solving.
+4. Problem Definition - Frame your idea as a challenge to be solved.
+5. Ideation - Generate creative ideas using lateral thinking
+6. Business Model - Explore the business model. Figure out how this idea is actually going to work.
+7. Problem Solution Fit - DOuble check that this is the best idea, not just the first idea.
+8. Strategy - Plan out your growth strategy.
+9. AI Startup - Some extra considerations for startup ideas using AI
 
   
 #### A note on Synthetic User Testing  
