@@ -1,4 +1,5 @@
 # 10x-your-ideas-with-chatGPT
+<img src="./Images/10x-with-ChatGPT.png" alt="ChatGPT Examples">  
 -- Headline image + links to website, discord, etc
 
 -- add an image to show a prompt generating some startup ideas
