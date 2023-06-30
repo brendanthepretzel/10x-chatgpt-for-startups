@@ -5,23 +5,24 @@
 ## About
 This repository holds a collection of ChatGPT prompts for designing, testing and launching startup ideas. Organised by activity, these prompts are a starting point to help you get your startup idea ready. 
 
+   
 ### How to use the prompts
 To get started, take a look through the Prompts directory for a prompt you want to try and copy it over to your Chat GPT session. Please note that some prompts are written to build on your conversation, so you might need to prime Chat GPT first. Here is an example:   
 
-<img src="./Images/Howto-example.jpg" alt="Howto Example" align="left">
-
-
-previously run prompts, so you might need to We recommend you . THen copy it over to your Chat GPT session Look through our collection of prompts 
- We encourage you to add your own prompts to the list, and to use ChatGPT to generate new prompts as well.
+<img src="./Images/Howto-example.jpg" alt="Howto Example" align="left" width="400">
+1. Enter your own starting idea     
+2. Chat  GPT will expand on your idea a bit anyway.    
+3. Copy paste your chosen prompt. We chose the Value Proposition prompt from the Big Idea collection.     
+4. See what Chat GPT does for you. Feel free to take over the conversation from here, or copy over another prompt.    
+  
+  
+We hope you find these prompts useful. Enjoy!
+  
+  
+## How To Contribute 
+-- how to use the prompts, how to contribute 
 
 To get started, simply clone this repository and use the prompts in the README.md file as input for ChatGPT. You can also use the prompts in this file as inspiration for creating your own.
-
-We hope you find these prompts useful and have fun using ChatGPT!
-
-
-  
-## How To Guide 
--- how to use the prompts, how to contribute 
 
 
 ## Motivation 
