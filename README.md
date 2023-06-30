@@ -1,11 +1,26 @@
 # 10x-your-ideas-with-chatGPT
 <img src="./Images/10x-with-ChatGPT.png" alt="ChatGPT Examples">  
--- Headline image + links to website, discord, etc
 
--- add an image to show a prompt generating some startup ideas
-
+  
 ## About
-This repository holds a collection of ChatGPT prompts that work really well for designing, testing and launching startup ideas. Organised by activity, these prompts are a starting point to help you get the answers you need from ChatGPT.  
+This repository holds a collection of ChatGPT prompts for designing, testing and launching startup ideas. Organised by activity, these prompts are a starting point to help you get your startup idea ready. 
+
+### How to use the prompts
+To get started, take a look through the Prompts directory for a prompt you want to try and copy it over to your Chat GPT session. Please note that some prompts are written to build on your conversation, so you might need to prime Chat GPT first. Here is an example:   
+
+
+
+
+
+
+
+previously run prompts, so you might need to We recommend you . THen copy it over to your Chat GPT session Look through our collection of prompts 
+ We encourage you to add your own prompts to the list, and to use ChatGPT to generate new prompts as well.
+
+To get started, simply clone this repository and use the prompts in the README.md file as input for ChatGPT. You can also use the prompts in this file as inspiration for creating your own.
+
+We hope you find these prompts useful and have fun using ChatGPT!
+
 
   
 ## How To Guide 
