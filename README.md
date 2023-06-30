@@ -14,7 +14,7 @@ Choose the prompts you need. Run them through Chat GPT. Accelerate your time to 
 <img src="./Images/chatgpt.png" alt="ChatGPT Logo" width="50" height="50" align="left">
 
 ## Find the Prompts you Need 
-All of our ChatGPT Prompts are organised into a series of collections. Pick a collection, open. theCSV file, and head on over to Chat GPT.  
+All of our ChatGPT Prompts are organised into a series of collections. Pick a collection, open the CSV file and head on over to Chat GPT.  
 
 1. Big Idea - Get help articulating your idea as is. Do this before you go any further.
 2. Market Research - Find out about the competition, and your tartget customer.
@@ -38,9 +38,9 @@ Check out the folks at [Synthetic Users](https://www.syntheticusers.com/) for a 
 ## How to use the prompts
 If you don't have an account with OpenAI already, you can open one [here](https://platform.openai.com/signup). Once you have that setup, login and start a new chat session [here](https://chat.openai.com/chat).     
    
-**BEFORE** you start using our prompts, you are going to need to tell chat GPT about the idea you want to develop. If you need help picking an idea you could try solving one of these [Innovation Challenges]()https://www.innovationchallenge.com/) , or just ask Chat GPT if it can generate a few startup ideas for you.   
+**BEFORE** you start using our prompts, you are going to need to tell chat GPT about the idea you want to develop. If you need help picking an idea you could try solving one of these [Innovation Challenges](https://www.innovationchallenge.com/) , or just ask Chat GPT if it can generate a few startup ideas for you.   
   
-Then, pick a prompt you like, and copy paste it over to your chat GPT session. Just be aware that some prompts will reference answers from previous prompts, in which case you can either make some adhjustments or just run a different prompt. 
+Then, pick a prompt you like and copy paste it over to your chat GPT session. Just be aware that some prompts will reference answers from previous prompts, in which case you can either make some adjustments or just run a different prompt. 
   
 Here is an example:   
 
