@@ -30,8 +30,9 @@ _Read more here ![Prompt ReadMe](/Prompts/ReadMe.md)_
 
   
 #### A note on Synthetic User Testing  
-SomeThis is where we create a range of synthetic personas, and the questions we need to ask them, and have them tell us what works and what doesn't work about our proposed solution concepts. It;s a great way to harden your idea before going out into the real world, but isn't really designed to replace actually speaking with real people. Check out [Syntehtic Users](https://www.syntheticusers.com/) for more.
-
+Some of our prompts make use of synthetic users, where Chat GPT creates imaginary personas and answers questions by impersonating those imaginary users. It's a really useful way to quickly explore your ideas, but cannot replace real user testing. 
+  
+Check out the folks at [Syntehtic Users](https://www.syntheticusers.com/) for a more sophisticated approach to synthetic user testing.
 
   
 ## How to use the prompts
@@ -57,28 +58,14 @@ ChatGPT can help with that. With the right prompts, and a clear framework to kee
 ## Community 
 Please share your experiences over at the Discord Server. We would really love to know which prompts worked best, what kind of ideas you are trying them out on, and how to improve in the future. When you are ready to contribute new prompts of your own, head on over here.
   
-
-
-
-
-
+  
 ## References 
-Some reading material to get you started with startup design. 
-- ChatGPT Ideation
-- Build a Better Business
-- Lean Startup
-- Google Design Sprint
-- Startup Weekend
-
+If you like learning about theory, here is some reading material to get you started with startup design. 
+- [Pitchlab ChatGPT Prompts](https://github.com/Pitchlab/ChatGPT-x-Ideation/blob/main/README.md) 
+- [Design a Better Business](https://designabetterbusiness.com/)
+- [Google Ventures Design Sprint](http://www.gv.com/sprint/)
+- [The Lean Startup](https://theleanstartup.com/principles)
   
-### More resources here  
-[Pitchlab ChatGPT Prompts](https://github.com/Pitchlab/ChatGPT-x-Ideation/blob/main/README.md)  
-[OpenAI Documentation](https://platform.openai.com/docs/introduction/overview)   
-
-  
-## License 
--- what kind of open source licence
-
   
 ## Thanks 
 -- give us a star
