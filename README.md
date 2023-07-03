@@ -1,5 +1,5 @@
-# 10x-your-ideas-with-chatGPT
-Have you got an idea for a startup, app, product or service? This repository holds a collection of ChatGPT prompts that will 10x your ideas. 
+# 10x-ChatGPT-for-startups
+Have you got an idea for a startup, app, product or service? This repository holds a collection of ChatGPT prompts that will make your idea 10x better. 
 
 - Super charge your brainstorms and ideation
 - Kick start your market research
@@ -54,7 +54,7 @@ There are a ton of different ways to design, develop, test and improve your new 
 
 ChatGPT can help with that. With the right prompts, and a clear framework to keep you focused, you can massively accelerate your startup journey. 
 
-  
+   
 ## Community 
 Please share your experiences over at the Discord Server. We would really love to know which prompts worked best, what kind of ideas you are trying them out on, and how to improve in the future. When you are ready to contribute new prompts of your own, head on over here.
   
@@ -66,9 +66,7 @@ If you like learning about theory, here is some reading material to get you star
 - [Google Ventures Design Sprint](http://www.gv.com/sprint/)
 - [The Lean Startup](https://theleanstartup.com/principles)
   
-  
-## Thanks 
--- give us a star
+
 
 
   
