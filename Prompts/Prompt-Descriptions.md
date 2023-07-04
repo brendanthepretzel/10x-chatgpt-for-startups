@@ -225,7 +225,57 @@ Purpose: Design experiments to test this idea in the real world with real people
 
 
 # 8. Strategy Prompts
-  
+
+## Startup Roadmap	
+Contributed by: [@brendancoram](https://github.com/brendancoram)
+Purpose:  Create a startup roadmap
+> Using the market adoption framework, create a startup roadmap to scale this business over the next 5 years. At each stage, identify the simplest possible business model needed to drive customer adoption and business growth. Assuming an organic growth strategy and a starting capital of $1,000 only, explain how this might work. Include any assumptions that would have to be true in order for this strategy to work.
+
+## Growing Pains	
+Contributed by: [@brendancoram](https://github.com/brendancoram)
+Purpose: Identify startup challenges  
+> Following the startup roadmap, identify any challenges that might impact this business. Include consideration of market forces and competition in your response. For each challenge, explain the potential impact to growth and recommend any changes to be made. Order challenges by expected impact to business growth.
+
+## Success Story	
+Contributed by: [@brendancoram](https://github.com/brendancoram)
+Purpose: Tell a story of my success
+> Assume that all growth recommendations are acted upon. Narrate this startup journey as a story. Tell it form the founders perspective, including the ups and downs of the journey along the way. Include the founders emotional state, any novel ideas or approaches they used, and highlight any help they get from partners or outside sources to make it work. Assume the story will feature in Forbes as a success story.
+
+## Where to Play	
+Contributed by: [@brendancoram](https://github.com/brendancoram)
+Purpose: Create a where to play how to win strategy 
+> Create a strategic plan using the where to play, how to win framework.
+
+## Concept Pitch	
+Contributed by: [@brendancoram](https://github.com/brendancoram)
+Purpose: Create three concept pitches 
+> Create three short concept pitches for this idea. Include the impact to customers, how this idea is 10x better than existing alternatives, and what we need to succeed. Ensure that each pitch is different, focusing on its own unique sellign point.
+
 
 # AI Startup Prompts
-  
+
+## Data Sources	
+Contributed by: [@brendancoram](https://github.com/brendancoram)
+Purpose: Identify key data sources 
+> Where might we source training data for this idea at different stages of growth? Include a high level description of how this data would be used, expected costs, and any key challenges we might face.
+
+## Low Cost Tools	
+Contributed by: [@brendancoram](https://github.com/brendancoram)
+Purpose: Identify low cost AI tools 
+> What AI tools and services might we use to deliver this product or service at different stages of growth? Include a high level description of what features each tool or service would enable, expected costs and any challenges we might face.
+
+## Building Trust
+Contributed by: [@brendancoram](https://github.com/brendancoram)
+Purpose:  Explain how to build trust in my idea
+> How might we drive customer adoption of this tool? Include considerations of trust, bias, explainability and goal alignment. I want to understand how to create customer confidence that they can rely upon this solution.
+
+## AI Risk	
+Contributed by: [@brendancoram](https://github.com/brendancoram)
+Purpose: Highlight the key AI risks and mitigations 
+> What are the core AI risks related to this idea, and how might they be mitigated. Provide simple examples and explanations around why this approach will work.
+
+## AI Governance	
+Contributed by: [@brendancoram](https://github.com/brendancoram)
+Purpose: Define an AI governance approach 
+> Create a governance framework to enable the business to monitor, curate and respond to AI risks over time. Have the framework follow the business growth stages.
+
