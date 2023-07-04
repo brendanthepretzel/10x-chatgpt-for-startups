@@ -2,7 +2,8 @@
 
 This repository contains all the Chat GPT prompts you need to accelerate your startup. Each prompt is designed to take your understanding one step further until you have enough clarity to try your idea out in market. 
 
-# Get Out of the Building
+  
+# Why use Chat GPT for your Startup
   
 If you have come across the lean startup, Google design sprints, or business model generation, then you will know that the most important part of launching a startup is to get out of the building and talk to customers. People just don't do what you think they are going to do. The sooner you can get out of your own head and put something in front of customers to try out, the faster you can find out what works and what doesn't. These prompts will get you there faster.  
 
@@ -10,7 +11,19 @@ Don't spend months on the drawing board trying to craft the perfect startup idea
 
 Easier said than done. These prompts will help you figure out what you need to know, accelerating your time to customer in the process.
 
+  
+# How to Write a Killer Prompt
 
+There is a lot of advice on how to engineer the perfect ChatGPT prompt. Here are a few simple rules to help you get started. 
+  
+- Have one clear goal. State your intent up front e.g. "I want a list of 10 questions designed to help me identify my customers most important problem"
+- Set some context e.g. "I am interested in young families doing their weekly shopping online"
+- Specify the result. Focus on what you really want to know e.g. "Organise your response by question. Include an explanation of what I can expect to learn with each question"
+- Experiment. Try a few different versions of your prompt to see what works best. 
+  
+If you get stuck. Try asking Chat GPT to improve your prompt. Just tell it which bits need to get better.
+  
+  
 # The Prompts
 
 The easiest way to use these prompts is to start at the beginning. Here they are in order.
