@@ -1,4 +1,5 @@
 Purpose,Prompt
-Business Model Canvas,"Generate a business model canvas for my selected idea. Provide dot point summaries and concise explanations for each element. Where multiple options exist, make the choices clear. "
-Lean Canvas,"Generate a lean canvas for my selected idea. Provide dot point summaries and concise explanations for each element. Where multiple options exist, make the choices clear. "
-Pirate Metrics,Use the pirate metrics framework to create a suite to success metrics to track the success of this idea from launch to maturity
+Business_Model_Canvas,"Generate a business model canvas for my selected idea. Provide dot point summaries and concise explanations for each element. Where multiple options exist, make the choices clear. "
+Lean_Canvas,"Generate a lean canvas for my selected idea. Provide dot point summaries and concise explanations for each element. Where multiple options exist, make the choices clear. "
+Pirate_Metrics,"Use the pirate metrics framework to create a suite to success metrics to track the success of this idea from launch to maturity"
+Hall_of_Fame_Revenue,"Generate a list of 5 famous fictional or real characters from movies or books. Provide a short description of the unique characteristics of each character. Impersonate each character, and generate a few highly diverse and creative ideas for ways in which this idea could generate revenue. Ensure that ideas are as diverse as possible, changing them further if needed to generate a list of highly diverse, unexpected and high value ideas."
