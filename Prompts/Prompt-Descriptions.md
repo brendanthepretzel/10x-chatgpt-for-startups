@@ -184,6 +184,11 @@ Contributed by: [@brendancoram](https://github.com/brendancoram)
 Purpose: Generate some success metrics for my idea 
 > Use the pirate metrics framework to create a suite to success metrics to track the success of this idea from launch to maturity
 
+## Hall of Fame Revenue	
+Contributed by: [@brendanthepretzel](https://github.com/brendanthepretzel)  
+Purpose: Generate ideas to make money from my idea
+> Generate a list of 5 famous fictional or real characters from movies or books. Provide a short description of the unique characteristics of each character. Impersonate each character, and generate a few highly diverse and creative ideas for ways in which this idea could generate revenue. Ensure that ideas are as diverse as possible, changing them further if needed to generate a list of highly diverse, unexpected and high value ideas.
+
   
 # 7. Problem Solution Fit Prompts
 
